@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "Train 1", "departure": "10:00 AM", "arrival": "12:00 PM" },
+    { "id": 2, "name": "Train 2", "departure": "11:00 AM", "arrival": "01:00 PM" }
+  ]
+  
